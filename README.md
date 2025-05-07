@@ -1,32 +1,10 @@
-# ML FastAPI Project - Flower Classifier 🌸
-
-A simple Machine Learning based Question-Answer system using **FastAPI** (backend) and **Next.js** (frontend).  
-This project trains a model using a CSV file and lets users ask questions to get predictions.
-
 ---
 
-## 🔧 Technologies Used
-- **Backend:** FastAPI, scikit-learn, pandas
-- **Frontend:** Next.js, React
-- **Model:** RandomForestClassifier
+# Next.js Project
 
----
+This is a **Next.js project** bootstrapped with [`create-next-app`](https://nextjs.org/docs/api-reference/create-next-app).
 
-## 🚀 Features
-
-### ✅ /learn (POST)
-- Upload a CSV file (like flower data)
-- Trains a RandomForestClassifier model
-
-### ✅ /ask (GET)
-- Send a query (comma-separated feature values)
-- Returns prediction using trained model
-
----
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
-
-## Getting Started
+## 🚀 Getting Started
 
 First, run the development server:
 
@@ -38,17 +16,18 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then, open your browser at http://localhost:3000 to view the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## 📁 Project Structure
+pages/index.tsx: Start editing this file to change the homepage. The page auto-updates as you save.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+pages/api/hello.ts: API route example, accessible via http://localhost:3000/api/hello.
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+All files in the pages/api/ directory are treated as API routes instead of React pages.
 
 ## Learn More
 
@@ -66,11 +45,35 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
 
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
+Frontend:
 
-Backend: FastAPI, scikit-learn, pandas, pickle  
-Frontend: Next.js, React  
-Deployment: GitHub  
+Next.js – React-based framework
+
+TypeScript – Typed JavaScript
+
+React – Component-based UI
+
+CSS Modules – Scoped styling
+
+Geist Font – Vercel-optimized modern font
+
+Backend / API:
+
+Next.js API Routes – Serverless backend
+
+Development Tools:
+
+ESLint – Code linting
+
+Prettier – Code formatting
+
+Git – Version control
+
+GitHub – Repository hosting
+
+Vercel – Production deployment
+
 
 ## 🧾 Author
 
