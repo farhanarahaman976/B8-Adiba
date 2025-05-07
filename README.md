@@ -46,34 +46,23 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 
 
 ## 🛠️ Tech Stack
-Frontend:
 
-Next.js – React-based framework
+### Frontend:
+- **Next.js** – React-based framework  
+- **TypeScript** – Typed JavaScript  
+- **React** – Component-based UI  
+- **CSS Modules** – Scoped styling  
+- **Geist Font** – Vercel-optimized modern font  
 
-TypeScript – Typed JavaScript
+### Backend / API:
+- **Next.js API Routes** – Serverless backend  
 
-React – Component-based UI
-
-CSS Modules – Scoped styling
-
-Geist Font – Vercel-optimized modern font
-
-Backend / API:
-
-Next.js API Routes – Serverless backend
-
-Development Tools:
-
-ESLint – Code linting
-
-Prettier – Code formatting
-
-Git – Version control
-
-GitHub – Repository hosting
-
-Vercel – Production deployment
-
+### Development Tools:
+- **ESLint** – Code linting  
+- **Prettier** – Code formatting  
+- **Git** – Version control  
+- **GitHub** – Repository hosting  
+- **Vercel** – Production deployment  
 
 ## 🧾 Author
 
