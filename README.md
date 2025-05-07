@@ -14,7 +14,6 @@ The system:
 
 ---
 ---
-
 # Next.js Project
 
 This is a **Next.js project** bootstrapped with [`create-next-app`](https://nextjs.org/docs/api-reference/create-next-app).
@@ -33,7 +32,9 @@ pnpm dev
 bun dev
 
 ```
-
+### ✅ Backend (FastAPI):
+- `/learn` – Accepts a CSV file and trains a RandomForest model.
+- `/ask` – Accepts a question as a query parameter and returns a prediction.
 Then, open your browser at http://localhost:3000 to view the result.
 
 
