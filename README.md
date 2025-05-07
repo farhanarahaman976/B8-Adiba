@@ -1,3 +1,18 @@
+# 🎓 Student (B8) Test Project – Machine Learning Q&A System
+
+This project is a full-stack application that uses **FastAPI** for a backend machine-learning API (RandomForest) and **Next.js** for a frontend interface to upload data and ask questions.
+
+---
+
+## 📌 Project Overview
+
+Build a simple machine-learning-based **Q&A system** using **FastAPI** and **Next.js**.  
+The system:
+- Trains a RandomForest model from uploaded `.csv` data.
+- Uses the trained model to predict answers to user questions.
+- Includes a file upload interface and a question input field on the frontend.
+
+---
 ---
 
 # Next.js Project
