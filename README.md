@@ -13,6 +13,25 @@ The system:
 - Includes a file upload interface and a question input field on the frontend.
 
 ---
+## 🛠️ Tech Stack
+
+### Frontend:
+- **Next.js** – React-based framework  
+- **TypeScript** – Typed JavaScript  
+- **React** – Component-based UI  
+- **CSS Modules** – Scoped styling  
+- **Geist Font** – Vercel-optimized modern font  
+
+### Backend / API:
+- **Next.js API Routes** – Serverless backend  
+
+### Development Tools:
+- **ESLint** – Code linting  
+- **Prettier** – Code formatting  
+- **Git** – Version control  
+- **GitHub** – Repository hosting  
+- **Vercel** – Production deployment  
+
 ---
 # Next.js Project
 
@@ -59,26 +78,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-
-
-## 🛠️ Tech Stack
-
-### Frontend:
-- **Next.js** – React-based framework  
-- **TypeScript** – Typed JavaScript  
-- **React** – Component-based UI  
-- **CSS Modules** – Scoped styling  
-- **Geist Font** – Vercel-optimized modern font  
-
-### Backend / API:
-- **Next.js API Routes** – Serverless backend  
-
-### Development Tools:
-- **ESLint** – Code linting  
-- **Prettier** – Code formatting  
-- **Git** – Version control  
-- **GitHub** – Repository hosting  
-- **Vercel** – Production deployment  
 
 ## 🧾 Author
 
